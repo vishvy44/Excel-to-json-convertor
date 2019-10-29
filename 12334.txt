@@ -1,0 +1,52 @@
+{"state":[
+{"Andhra Pradesh":[
+{"Ananthapur":[
+{"State":"Andhra Pradesh","City":"Ananthapur","Loction":"Ananthapur","AscName":"Pyramid Mobiles  ","AscAddress":"D.No:9C/102/2,Beside Rajiv Statue, Anantapuramu Road,Kalyandurgam location, Ananthapur district,Andhrapradesh ","ContactNumber":"9949943832.0","Lat":"3434.0","Long":"23232.0"},
+{"State":"Andhra Pradesh","City":"Ananthapur","Loction":"Ananthapur","AscName":"Reddy Mobiles  ","AscAddress":"15/169, Upstairs Sapthagiri Circle, Opp. Lalithakala Parishath, Ananthapuram, Andhra Pradesh ","ContactNumber":"09492402402/9177212525","Lat":"","Long":""},
+{"State":"Andhra Pradesh","City":"Ananthapur","Loction":"Ananthapur","AscName":"Sravan Mobiles Service Center  ","AscAddress":"Shop No.2, YTP Compound, Panduranga Nagar, Hindupur, Anantapur, Andhra Pradesh ","ContactNumber":"8297661246.0","Lat":"","Long":""}]},
+{"Eluru":[
+{"State":"Andhra Pradesh","City":"Eluru","Loction":"Eluru","AscName":"Baba Cel Point  ","AscAddress":"DND-23B-A-63, Near Srinivasa Theater Road, RR Pet, Eluru, Andhra Pradesh ","ContactNumber":"08019199429/9492226742","Lat":"","Long":""}]},
+{"Gudivada":[
+{"State":"Andhra Pradesh","City":"Gudivada","Loction":"Gudivada","AscName":"Lakshmi Balaji Communication  ","AscAddress":"Shop No.1, Subrahmanyeswara Complex, Park Road, Opp. 1-Town Police Station, Gudivada, Andhra Pradesh ","ContactNumber":"9247403888.0","Lat":"","Long":""}]},
+{"Guntur":[
+{"State":"Andhra Pradesh","City":"Guntur","Loction":"Guntur","AscName":"LVS Communications ","AscAddress":"D.No.5-25-16, Khaleel Complex, 3/1 Brodi Pet, Guntur (Dt), Andhra Pradesh ","ContactNumber":"9030674048.0","Lat":"","Long":""},
+{"State":"Andhra Pradesh","City":"Guntur","Loction":"Guntur","AscName":"Sujay Communications  ","AscAddress":"#12-23-22, PUVVADA Vari Street, Beside Anna Srinivasarao, Kalyana Mandapam, Kothapet, Opp. RK Eye Care, Guntur, Andhra Pradesh ","ContactNumber":"8886622381.0","Lat":"","Long":""},
+{"State":"Andhra Pradesh","City":"Guntur","Loction":"Guntur","AscName":"TSR Communications  ","AscAddress":"DR.No.5/216, Opp. New Prince Bakery, Main Road, Piduguralla, Near Maszed, Guntur, Andhra Pradesh ","ContactNumber":"8142094209.0","Lat":"","Long":""}]},
+{"Kadiri":[
+{"State":"Andhra Pradesh","City":"Kadiri","Loction":"Kadiri","AscName":"Maxx Mobiles  ","AscAddress":"Shop No.5, Kandikunta Complex, Hindupur Cross Road, Near Star Baker, Distt. Anantapur, Kadiri, Andhra Pradesh ","ContactNumber":"09949691889/9032186487","Lat":"","Long":""}]},
+{"Kakinada":[
+{"State":"Andhra Pradesh","City":"Kakinada","Loction":"Kakinada","AscName":"Sri Sai Surya Enterprises  ","AscAddress":"F-3, Upstair Of Bangalore Bakery, Mantri Pragada Vari Complex, Near Santha Cheruvu, Cinema Road, Near Mayuri Theater, Kakinada, Andhra Pradesh ","ContactNumber":"9299151566.0","Lat":"","Long":""}]},
+{"Kavali":[
+{"State":"Andhra Pradesh","City":"Kavali","Loction":"Kavali","AscName":"Sri Lakshmi Vignewara Communication  ","AscAddress":"Devi Theatre Road, Near Lakshmi Narayana Mobiles, Opp. SBH Bank, Kavali, Distt. Nellore, Andhra Pradesh ","ContactNumber":"9030909890.0","Lat":"","Long":""}]},
+{"Kurnool":[
+{"State":"Andhra Pradesh","City":"Kurnool","Loction":"Kurnool","AscName":"S.S. Solution ","AscAddress":"43/100-A, Upstair Opp. Municipal Office Kurnool, Near N.R. Peta, Kurnool, Andhra Pradesh Kurnool, Near N.R. Peta, Kurnool, Andhra Pradesh","ContactNumber":"9849840769.0","Lat":"","Long":""},
+{"State":"Andhra Pradesh","City":"Kurnool","Loction":"Kurnool","AscName":"Star Communications  ","AscAddress":"Shop No.23, Beside ICE Magic Ucon Plaza, Kurnool, Andhra Pradesh ","ContactNumber":"9704040988.0","Lat":"","Long":""}]},
+{"Machilipatnam":[
+{"State":"Andhra Pradesh","City":"Machilipatnam","Loction":"Machilipatnam","AscName":"Sai Tele Services  ","AscAddress":"24/415, Beside Veeranki Ram Mohan Rao Hospital, Kenade Road, Buttai Pet, Machilipatnam, Krishna DT, Andhra Pradesh ","ContactNumber":"9292459678.0","Lat":"","Long":""}]},
+{"Mandapeta":[
+{"State":"Andhra Pradesh","City":"Mandapeta","Loction":"Mandapeta","AscName":"Chinni Mobiles  ","AscAddress":"Shop No.10, Main Road, Near Vijaya Vahani Photo Studio, Municipal Complex, Near Kavuvapuvvu Center, Mandapeta, Andhra Pradesh ","ContactNumber":"9849674111.0","Lat":"","Long":""}]},
+{"Nandigama":[
+{"State":"Andhra Pradesh","City":"Nandigama","Loction":"Nandigama","AscName":"Pragna Communications  ","AscAddress":"H.No. 15-40, Vani Towers, Opp. Government Hospital, Nandigama, Krishna District, Nandigama, Andhra Pradesh ","ContactNumber":"9704412054.0","Lat":"","Long":""}]},
+{"Nandyal":[
+{"State":"Andhra Pradesh","City":"Nandyal","Loction":"Nandyal","AscName":"Vamsi Cell Point  ","AscAddress":"SHOP NUM 2-428-26 NEAR GANGA HOTEL BESIDE BANAGANAPALLI CO OPERATIVE BANK BALAJI COMPLEX Nandyal, Andhra Pradesh ","ContactNumber":"9885596227.0","Lat":"","Long":""}]},
+{"Narasaraopet":[
+{"State":"Andhra Pradesh","City":"Narasaraopet","Loction":"Narasaraopet","AscName":"Devi Communications  ","AscAddress":"Clock Tower Centre, Opp. Axis Bank ATM, Narasaraopet, Andhra Pradesh ","ContactNumber":"9391811666.0","Lat":"","Long":""}]},
+{"Nellore":[
+{"State":"Andhra Pradesh","City":"Nellore","Loction":"Nellore","AscName":"NAZ-Mobiles  ","AscAddress":"Shop No. 18, JVR Building, Near Gandhi Bomma Centre, Beside Kotta Hall, Nellore, Andhra Pradesh ,Nellore,Andhra Pradesh ","ContactNumber":"08686375873 & 9700292787","Lat":"","Long":""}]},
+{"Palasa Kasibugga":[
+{"State":"Andhra Pradesh","City":"Palasa Kasibugga","Loction":"Palasa Kasibugga","AscName":"Santu Mobile Service & Spares  ","AscAddress":"Kanaka Mahalaxmi Jeens Corner, Upstairs, Opp. She Zone, K.T. Road, Kasibugga, Srikakulam, Palasa, Andhra Pradesh ","ContactNumber":"9908563444.0","Lat":"","Long":""}]},
+{"Ponnur":[
+{"State":"Andhra Pradesh","City":"Ponnur","Loction":"Ponnur","AscName":"Syam Communications  ","AscAddress":"17-5-2/B, Opp. E-Seva, S.P.P Road, Ponnur Mandel, Beside Srinivasa Theatre, Guntur Distt, Ponnur, Andhra Pradesh ","ContactNumber":"9502228333.0","Lat":"","Long":""}]},
+{"Rajahmundry":[
+{"State":"Andhra Pradesh","City":"Rajahmundry","Loction":"Rajahmundry","AscName":"Sri Lakshmi Narasimha Mobile Service  ","AscAddress":"1-26, Temple Street, Near Navata Transport, Korukonda, Rajamundhary, Andhra Pradesh ","ContactNumber":"08886318808/8886312688","Lat":"","Long":""},
+{"State":"Andhra Pradesh","City":"Rajahmundry","Loction":"Rajahmundry","AscName":"Sri Ratnam Electronics  ","AscAddress":"D.No: 10.7.37, Near Ratnam Pens, Rangreej Peta, Main Road, Near Kotagummam, Rajamundhry, Andhra Pradesh ","ContactNumber":"9397972143.0","Lat":"","Long":""}]},
+{"Srikakulam":[
+{"State":"Andhra Pradesh","City":"Srikakulam","Loction":"Srikakulam","AscName":"Myphone Mobiles  ","AscAddress":"7 Road Junction, Petro Max Street, Upstairs of Bank of Baroda, Srikakulam, Andhra Pradesh ","ContactNumber":"9063291919.0","Lat":"","Long":""},
+{"State":"Andhra Pradesh","City":"Srikakulam","Loction":"Srikakulam","AscName":"Sri Sai Solution  ","AscAddress":"Ground Floor, Door No. 7-2-21/A, Opp. Kamalvilekar Dental Clinic, China Bazar, Srikakulam, Andhra Pradesh ","ContactNumber":"9848293636.0","Lat":"","Long":""}]},
+{"Tadepalligudem":[
+{"State":"Andhra Pradesh","City":"Tadepalligudem","Loction":"Tadepalligudem","AscName":"Vibhavari Mobiles  ","AscAddress":"Vibhavari Mobiles, Besides Devi Paints, Near Jubille Road, Tadepalligudem, Andhra Pradesh ","ContactNumber":"9247667175.0","Lat":"","Long":""}]},
+{"Tadpatri":[
+{"State":"Andhra Pradesh","City":"Tadpatri","Loction":"Tadpatri","AscName":"Surya Electronics  ","AscAddress":"Room No.2, Yellanur Road Circle, Dwarka Complex, Tadipatri, Anantapur Distt, Tadipatri, Andhra Pradesh ","ContactNumber":"9059229132.0","Lat":"","Long":""}]},
+{"Vijayawada":[
+{"State":"Andhra Pradesh","City":"Vijayawada","Loction":"Vijayawada","AscName":"Best Communications ","AscAddress":"#28-22-6, FIRST FLOOR, RCHMAN STREET, ARUNDALPET ELLURA ROAD, BACK SIDE SAHARA BUILDING, NEAR CANERA BANKVijayawada, Andhra Pradesh ","ContactNumber":"9553516888'/08142602602","Lat":"","Long":""},
+{"State":"Andhra Pradesh","City":"Vijayawada","Loction":"Vijayawada","AscName":"M&M Technologies  ","AscAddress":"D no: 28-17-8, 1st Floor, Ramandiram Street, Arundal Pet, Eluru Road, Vijaywada, AP ","ContactNumber":"9246998444.0","Lat":"","Long":""}
